@@ -1,5 +1,4 @@
 
-
 public class Arrqueue {
     public static void main(String[] args){
     ArrayQueue objectque = new ArrayQueue(10);
