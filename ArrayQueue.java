@@ -1,6 +1,4 @@
-/**Allyson Mae J. Tubtub
- * BSIS - II
- */
+
 
 public class ArrayQueue {
  
